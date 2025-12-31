@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 """ The master faceswap.py script """
+import lib.transport
+import lib.session
 import gettext
 import locale
 import os
